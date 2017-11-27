@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TaskEditor",
+	"Description": "TaskEditor",
+	"Category": "TaskEditor",
+	"CreatedBy": "zhangzemin",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TaskEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

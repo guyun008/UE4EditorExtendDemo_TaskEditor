@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TaskEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UE4\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"F:\UE4\EditorTest\Plugins\TaskEditor\Intermediate\Build\Win64\UE4Editor\Development\TaskEditor\Module.TaskEditor.cpp.obj"
+"F:\UE4\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\TaskEditor\PCLaunch.rc.res"
+"F:\UE4\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\UE4\EditorTest\Plugins\TaskEditor\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TaskEditor.lib"
